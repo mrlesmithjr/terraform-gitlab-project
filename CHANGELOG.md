@@ -1,3 +1,12 @@
+commit 0372740a1e82b71d7976fe72abe6e04a7e8acdc3
+Author: Larry Smith Jr <mrlesmithjr@gmail.com>
+Date:   Sun Jun 28 01:57:27 2020 -0400
+
+    Added TF Destroy
+    
+    The project is now deleted. So, when this CI test runs, we will create
+    the project and then destroy it.
+
 commit b45f48bf9a08c98ad834114f42aba2ec21b6e883
 Author: Larry Smith Jr <mrlesmithjr@gmail.com>
 Date:   Sun Jun 28 01:52:36 2020 -0400
