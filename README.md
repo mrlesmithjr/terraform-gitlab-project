@@ -11,8 +11,10 @@ You will need to create a [GitLab Personal Access Token](https://gitlab.com/prof
 ## Usage
 
 ```bash
-module "terraform-gitlab-project" {
-  source  = "github.com/mrlesmithjr/terraform-gitlab-project"
+module "project" {
+  source  = "mrlesmithjr/project/gitlab"
+  version = "0.1.1"
+  # insert the 2 required variables here
 }
 ```
 
