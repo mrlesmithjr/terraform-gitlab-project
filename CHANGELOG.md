@@ -1,3 +1,9 @@
+commit b45f48bf9a08c98ad834114f42aba2ec21b6e883
+Author: Larry Smith Jr <mrlesmithjr@gmail.com>
+Date:   Sun Jun 28 01:52:36 2020 -0400
+
+    Added initial GitHub actions CI testing
+
 commit a268fb43040482493753705712298a1f6e559f84
 Author: Larry Smith Jr <mrlesmithjr@gmail.com>
 Date:   Sun Jun 28 01:34:19 2020 -0400
